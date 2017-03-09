@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:Employee xmlns:tns="http://www.example.org/Employee/" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.example.org/Employee/ Employee.xsd ">
+  <Id>1</Id>
+  <firstName>Prudhviraj</firstName>
+  <lastName>undavalli</lastName>
+  <address>
+    <address1>address1</address1>
+    <address2>address2</address2>
+    <city>city</city>
+    <State>State</State>
+    <zipCode>zipCode</zipCode>
+  </address>
+</tns:Employee>
